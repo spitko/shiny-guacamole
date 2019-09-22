@@ -3,3 +3,27 @@
     left: 45%;
     bottom: 0;
 }
+
+.header {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+#nimi:focus {
+    background-color: black;
+    color: white;
+}
+
+div > ol:hover {
+    background-color: crimson;
+    color: white;
+}
+
+ol > li:hover{
+    background-color: black;
+}
+
+ol p:hover{
+    background-color: blue;
+    width: 15%;
+}
